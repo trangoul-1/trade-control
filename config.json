@@ -1,0 +1,9 @@
+{
+  "global_kill": false,
+  "check_interval_sec": 5,
+  "users": {
+    "jw_01": true,
+    "sy_01": true,
+    "yj_01": true
+  }
+}
