@@ -1,9 +1,18 @@
 {
   "global_kill": false,
-  "check_interval_sec": 5,
+  "check_interval_sec": 10,
   "users": {
-    "jw_01": true,
-    "sy_01": true,
-    "yj_01": true
+    "jw_01":  {
+      "enabled": true,
+      "max_invest": 4000000
+    },
+    "sy_01":  {
+      "enabled": true,
+      "max_invest": 4000000
+    },
+    "yj_01":  {
+      "enabled": true,
+      "max_invest": 4000000
+    },
   }
 }
