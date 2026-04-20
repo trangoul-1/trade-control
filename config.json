@@ -1,6 +1,6 @@
 {
   "global_kill": false,
-  "check_interval_sec": 20,
+  "check_interval_sec": 15,
   "users": {
     "jw_01":  {
       "enabled": true,
